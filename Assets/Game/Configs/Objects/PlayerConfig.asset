@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 00842bfe286c76e41bddb2a8f5db7ffa, type: 3}
+  m_Name: PlayerConfig
+  m_EditorClassIdentifier: 
+  ClipSize: 26
+  BulletRegenerateTime: 1
+  AttackRadius: 15
+  ShotScatterAngle: 10
+  ThresholdFireAngle: 4
+  MagnetSpeed: 15
+  StartMagnetRadius: 0.25
+  EnemyLayerMask:
+    serializedVersion: 2
+    m_Bits: 64
+  CharacterConfig:
+    Damage: 1
+    HitPoints: 3
+    MaxHitPoints: 3
+    MoveSpeed: 4
+    RotationSpeedLerp: 7
+    RotationSpeedTowards: 500
+    AttackPeriod: 0.1
+    Team: 1

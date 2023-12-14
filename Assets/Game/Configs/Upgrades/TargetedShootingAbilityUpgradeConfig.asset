@@ -1,0 +1,109 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0dd8e842d0586d04c913d441513bb2cf, type: 3}
+  m_Name: TargetedShootingAbilityUpgradeConfig
+  m_EditorClassIdentifier: 
+  Name: Targeted Shooting
+  MaxLevel: 10
+  Icon: {fileID: -489694505, guid: 981781d623187674ca8f29286942b5cf, type: 3}
+  DescriptionTable:
+    Table:
+    - Level: 1
+      Description: 'Adds aiming.
+
+        Reduces shot scattering
+
+        Reduces
+        aiming time
+
+        Reduces scatter accumulation'
+    - Level: 2
+      Description: 'Adds aiming.
+
+        Reduces shot scattering
+
+        Reduces
+        aiming time
+
+        Reduces scatter accumulation'
+    - Level: 3
+      Description: 'Adds aiming.
+
+        Reduces shot scattering
+
+        Reduces
+        aiming time
+
+        Reduces scatter accumulation'
+    - Level: 4
+      Description: 'Adds aiming.
+
+        Reduces shot scattering
+
+        Reduces
+        aiming time
+
+        Reduces scatter accumulation'
+    - Level: 5
+      Description: 'Adds aiming.
+
+        Reduces shot scattering
+
+        Reduces
+        aiming time
+
+        Reduces scatter accumulation'
+    - Level: 6
+      Description: 'Adds aiming.
+
+        Reduces shot scattering
+
+        Reduces
+        aiming time
+
+        Reduces scatter accumulation'
+    - Level: 7
+      Description: 'Adds aiming.
+
+        Reduces shot scattering
+
+        Reduces
+        aiming time
+
+        Reduces scatter accumulation'
+    - Level: 8
+      Description: 'Adds aiming.
+
+        Reduces shot scattering
+
+        Reduces
+        aiming time
+
+        Reduces scatter accumulation'
+    - Level: 9
+      Description: 'Adds aiming.
+
+        Reduces shot scattering
+
+        Reduces
+        aiming time
+
+        Reduces scatter accumulation'
+    - Level: 10
+      Description: 'Adds aiming.
+
+        Reduces shot scattering
+
+        Reduces
+        aiming time
+
+        Reduces scatter accumulation'

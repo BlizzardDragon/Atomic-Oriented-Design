@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ae95243370d23245a7129f4e9199f86, type: 3}
+  m_Name: PhotonCoreAbilityConfig
+  m_EditorClassIdentifier: 
+  MaxLevel: 10
+  SerchRadius: 15
+  EndReloadTime: 0.2
+  ReloadTimeMultiplier: 1.25
+  TargetLayerMask:
+    serializedVersion: 2
+    m_Bits: 64
+  LevelsData:
+  - Level: 1
+    Damage: 1
+    ReloadTime: 1.4901161
+  - Level: 2
+    Damage: 1
+    ReloadTime: 1.1920929
+  - Level: 3
+    Damage: 1
+    ReloadTime: 0.9536743
+  - Level: 4
+    Damage: 1
+    ReloadTime: 0.76293945
+  - Level: 5
+    Damage: 1
+    ReloadTime: 0.61035156
+  - Level: 6
+    Damage: 1
+    ReloadTime: 0.48828125
+  - Level: 7
+    Damage: 1
+    ReloadTime: 0.390625
+  - Level: 8
+    Damage: 1
+    ReloadTime: 0.3125
+  - Level: 9
+    Damage: 1
+    ReloadTime: 0.25
+  - Level: 10
+    Damage: 1
+    ReloadTime: 0.2

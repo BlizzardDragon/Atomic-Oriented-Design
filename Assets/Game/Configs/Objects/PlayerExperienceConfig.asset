@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5fb627651dc8c942ad7cd964a20e38f, type: 3}
+  m_Name: PlayerExperienceConfig
+  m_EditorClassIdentifier: 
+  _startExperience: 30
+  _levelMultiplier: 0.2
+  _displayedTableLength: 20
+  _table:
+  - Level: 1
+    Experience: 30
+  - Level: 2
+    Experience: 36
+  - Level: 3
+    Experience: 42
+  - Level: 4
+    Experience: 48
+  - Level: 5
+    Experience: 54
+  - Level: 6
+    Experience: 60
+  - Level: 7
+    Experience: 66
+  - Level: 8
+    Experience: 72
+  - Level: 9
+    Experience: 78
+  - Level: 10
+    Experience: 84
+  - Level: 11
+    Experience: 90
+  - Level: 12
+    Experience: 96
+  - Level: 13
+    Experience: 102
+  - Level: 14
+    Experience: 108
+  - Level: 15
+    Experience: 114
+  - Level: 16
+    Experience: 120
+  - Level: 17
+    Experience: 126
+  - Level: 18
+    Experience: 132
+  - Level: 19
+    Experience: 138
+  - Level: 20
+    Experience: 144

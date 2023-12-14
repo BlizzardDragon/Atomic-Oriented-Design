@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9330ab67c90619b4fa077219cb684896, type: 3}
+  m_Name: MagnetUpgradeConfig
+  m_EditorClassIdentifier: 
+  Name: Soul Magnet
+  MaxLevel: 10
+  Icon: {fileID: 21300000, guid: 2a0a631b0e0487043857da27d34690b8, type: 3}
+  DescriptionTable:
+    Table:
+    - Level: 1
+      Description: 'Adds soul attraction.
+
+
+        + 0.75 magnet radius'
+    - Level: 2
+      Description: 'Adds soul attraction.
+
+
+        + 0.75 magnet radius'
+    - Level: 3
+      Description: 'Adds soul attraction.
+
+
+        + 0.75 magnet radius'
+    - Level: 4
+      Description: 'Adds soul attraction.
+
+
+        + 0.75 magnet radius'
+    - Level: 5
+      Description: 'Adds soul attraction.
+
+
+        + 0.75 magnet radius'
+    - Level: 6
+      Description: 'Adds soul attraction.
+
+
+        + 0.75 magnet radius'
+    - Level: 7
+      Description: 'Adds soul attraction.
+
+
+        + 0.75 magnet radius'
+    - Level: 8
+      Description: 'Adds soul attraction.
+
+
+        + 0.75 magnet radius'
+    - Level: 9
+      Description: 'Adds soul attraction.
+
+
+        + 0.75 magnet radius'
+    - Level: 10
+      Description: 'Adds soul attraction.
+
+
+        + 0.75 magnet radius'
+  ExtraRadiusTable:
+  - Level: 1
+    Radius: 0.75
+  - Level: 2
+    Radius: 0.75
+  - Level: 3
+    Radius: 0.75
+  - Level: 4
+    Radius: 0.75
+  - Level: 5
+    Radius: 0.75
+  - Level: 6
+    Radius: 0.75
+  - Level: 7
+    Radius: 0.75
+  - Level: 8
+    Radius: 0.75
+  - Level: 9
+    Radius: 0.75
+  - Level: 10
+    Radius: 0.75

@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 129dd7fb08044c647bda74824692ae57, type: 3}
+  m_Name: TargetedShootingAbilityConfig
+  m_EditorClassIdentifier: 
+  MaxLevel: 10
+  LevelsData:
+  - Level: 1
+    AimingTime: 2
+    MinMultiplier: 0.5
+    MultiplierStep: 0.3
+  - Level: 2
+    AimingTime: 2
+    MinMultiplier: 0.4
+    MultiplierStep: 0.25
+  - Level: 3
+    AimingTime: 1.75
+    MinMultiplier: 0.4
+    MultiplierStep: 0.2
+  - Level: 4
+    AimingTime: 1.75
+    MinMultiplier: 0.3
+    MultiplierStep: 0.175
+  - Level: 5
+    AimingTime: 1.5
+    MinMultiplier: 0.3
+    MultiplierStep: 0.15
+  - Level: 6
+    AimingTime: 1.25
+    MinMultiplier: 0.2
+    MultiplierStep: 0.15
+  - Level: 7
+    AimingTime: 1
+    MinMultiplier: 0.2
+    MultiplierStep: 0.125
+  - Level: 8
+    AimingTime: 0.75
+    MinMultiplier: 0.1
+    MultiplierStep: 0.1
+  - Level: 9
+    AimingTime: 0.5
+    MinMultiplier: 0.1
+    MultiplierStep: 0.1
+  - Level: 10
+    AimingTime: 0.5
+    MinMultiplier: 0
+    MultiplierStep: 0.05
