@@ -40,6 +40,14 @@
 - Presentation Model (MV*)
 - MVP-Passive (MV*)
 
+### Плагины
+- Odin Inspector
+- DOTween
+
+### Управление
+- W, A, S, D - ходьба
+- LBM - выбор улучшений
+
 ### Скриншоты
 <img src="Assets/Resources/Screen1.png" width="300">\
 <img src="Assets/Resources/Screen3.png" width="300">\
