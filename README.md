@@ -1,4 +1,4 @@
-# !EXPERIMENTAL! Atomic Oriented Design (AOD)
+# Soldier Survival 
 
 ### Описание
 Демо игра в жанре shoot ’em up и roguelike, написанная на Атомарном подходе Игоря Гулькина. AOD представляет собой совокупность декларативного описания ядра модели и Entity-Component подхода.
